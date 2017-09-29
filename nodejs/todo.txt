@@ -1,0 +1,8 @@
+debug
+joi
+knex
+koa
+nock
+rabbitmq
+redis
+winston
